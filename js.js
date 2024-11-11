@@ -350,4 +350,3 @@ window.addEventListener('load', function () {
     new MenuButtonActions(menuButtons[i], performMenuAction);
   }
 });
-
